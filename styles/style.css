@@ -8,3 +8,12 @@
     text-indent: -4em;
     margin-left: 4em;
 }
+
+.gallery {
+    margin: 0 auto;
+    width: 70%;
+}
+
+.about_img {
+    width: 80%;
+}
