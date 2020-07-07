@@ -1,0 +1,10 @@
+/* Week Four: Simple Group Website */
+/* Lauren Banawa, Justin Hickman, Alli Adolphson */
+/*ICT 4505 Web Design & Management */
+/* CSS File */
+
+.reference {
+    /* Once working, this style will create a hanging indent */
+    text-indent: -4em;
+    margin-left: 4em;
+}
