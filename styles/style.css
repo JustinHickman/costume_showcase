@@ -59,8 +59,8 @@ h3 {
 	margin-top:20px;
 	margin-bottom: 20px;
 	color: #3B6978;
-	font-family: 'Fanwood Text', serif;
-	font-size: 2rem;
+	font-family: 'Sacramento', cursive;
+	font-size: 3rem;
 	font-style: bold;
 }
 h3 {
@@ -92,13 +92,17 @@ p {
 	font-family: 'Fanwood Text', serif;
 	font-size: 1.25rem;
 	color: #3B6978;
+	background-color: #3B6978;
 }
 .nav-item {
 	font-family: 'Fanwood Text', serif;
-    font-size: 1.15rem;
+	font-size: 1.15rem;
+}
+.bg-light {
+	background-color: blueviolet;
 }
 a {
-	color: #204051;
+	color: #84A9AC;
 }
 a:visited {
 	color: #84A9AC;
@@ -107,4 +111,33 @@ a:hover{
 	color: #E7DFD5;
 	background-color: #204051;
 	border-bottom-color: #204051;
+}
+.navbar {
+	background-color: #3B6978;
+}
+.ml-auto {
+	background-color: #3B6978;
+}
+.gallery{
+	background-color: #E7DFD5;
+	padding: 16px 32px 16px 32px;
+	border-style: double;
+	border-color: #204051;
+}
+.col-lg-4{
+	padding: 4px 4px 4px 4px;
+	background-color: #E7DFD5;
+	border-color: #204051;
+}
+.col-md-6{
+	padding: 4px 4px 4px 4px;
+	background-color: #E7DFD5;
+}
+.card-body {
+	color: #204051;
+	font-family: 'Fanwood Text', serif;
+	font-size: .85rem;
+	background-color: #84A9AC;
+	border-bottom-left-radius: 3px;
+	border-bottom-right-radius: 3px;
 }
