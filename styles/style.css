@@ -91,15 +91,12 @@ p {
 .navbar-brand {
 	font-family: 'Fanwood Text', serif;
 	font-size: 1.25rem;
-	color: #3B6978;
+	color: #84A9AC;
 	background-color: #3B6978;
 }
 .nav-item {
 	font-family: 'Fanwood Text', serif;
 	font-size: 1.15rem;
-}
-.bg-light {
-	background-color: blueviolet;
 }
 a {
 	color: #84A9AC;
@@ -140,4 +137,7 @@ a:hover{
 	background-color: #84A9AC;
 	border-bottom-left-radius: 3px;
 	border-bottom-right-radius: 3px;
+}
+.card {
+	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16);
 }
